@@ -801,6 +801,7 @@ Tools for picking, analyzing, or seeing colors.
 
 *   [Download Converter](https://converter.download3k.com/webp-to-any) - Convert between lots of different files.
 *   [Smallpdf](https://smallpdf.com/) - Pdf conversion and compression tools.
+*   [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ free browser tools: PDF editing/conversion, image & audio converters, 200+ calculators. All client-side, no uploads.
 *   [Shrinkme](https://shrinkme.app) - Shrink images online.
 *   [Free Image and Photo Resizer](https://promo.com/tools/image-resizer/) - Perfect Sizes For Social Media And Web
 *   [Scrapy](https://scrapy.org/) - An open source framework for extracting the data you need from websites.
